@@ -15,9 +15,8 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-> **MirAI School of Technology Virtual Summer Internship 2026**
 > **Track:** AI Builder  
-> **Capstone Assignment:** "Life-OS" Wellbeing Dashboard  
+> **Capstone:** "Life-OS" Wellbeing Dashboard  
 > **Tech Stack:** Python 3.11 | Streamlit | Pandas | Gemini AI (google-genai) | Pollinations AI
 
 ---
@@ -125,8 +124,3 @@ $ streamlit run app.py
 
 ---
 
-```text
-================================================================─────────────
-               Made with ❤️ for MirAI School of Technology
-================================================================─────────────
-```
