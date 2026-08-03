@@ -19,6 +19,18 @@
 > **Capstone:** "Life-OS" Wellbeing Dashboard  
 > **Tech Stack:** Python 3.11 | Streamlit | Pandas | Gemini AI (google-genai) | Pollinations AI
 
+
+<img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/ac9238ad-da37-46cf-b949-ed1eeb2ee263" />
+
+
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/2c9a1811-d295-4afe-a44a-2544237ba4ec" />
+
+
+<img width="1907" height="862" alt="image" src="https://github.com/user-attachments/assets/6edc7ac3-337a-483e-9132-89649a66e32c" />
+
+
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/c3e15295-3227-465c-b774-1723a21d06c1" />
+
 ---
 
 ## ⚡ System Diagnostics
